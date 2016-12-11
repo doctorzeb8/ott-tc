@@ -1,5 +1,5 @@
 {
-  "name": "ott-testcase",
+  "name": "ott-tс",
   "version": "1.0.0",
   "description": "onetwotrip testcase",
   "dependencies": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/doctorzeb8/ott-testcase.git"
+    "url": "git+https://github.com/doctorzeb8/ott-tс.git"
   },
   "author": "Denis Savasteev",
   "license": "MIT"
